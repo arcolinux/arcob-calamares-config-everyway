@@ -1,0 +1,2 @@
+# ArcoLinuxB-everyway Calamares configuration
+
